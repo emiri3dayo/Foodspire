@@ -1,0 +1,673 @@
+source,source.category,target,target.category,dessert
+almond,Nut,amaretto,Alcohol,13
+almond,Nut,apple,Fruit,12
+almond,Nut,apricot,Fruit,22
+almond,Nut,berry,Fruit,26
+almond,Nut,blackberry,Fruit,6
+almond,Nut,brandy,Alcohol,13
+almond,Nut,cashew,Nut,9
+almond,Nut,cherry,Fruit,36
+almond,Nut,chocolate,Misc,68
+almond,Nut,cinnamon,Spice,10
+almond,Nut,citrus,Fruit,8
+almond,Nut,coconut,Fruit,8
+almond,Nut,coffee,Misc,11
+almond,Nut,cranberry,Fruit,8
+almond,Nut,cream cheese,Dairy,16
+almond,Nut,currant,Fruit,5
+almond,Nut,date,Fruit,8
+almond,Nut,dried fruit,Fruit,7
+almond,Nut,egg,Poultry,72
+almond,Nut,fig,Fruit,6
+almond,Nut,ginger,Vegetable,15
+almond,Nut,hazelnut,Nut,12
+almond,Nut,honey,Condiment,24
+almond,Nut,jam or jelly,Condiment,10
+almond,Nut,lemon,Fruit,20
+almond,Nut,lime,Fruit,5
+almond,Nut,liqueur,Alcohol,11
+almond,Nut,milk/cream,Dairy,51
+almond,Nut,oat,Grain,5
+almond,Nut,orange,Fruit,25
+almond,Nut,peach,Fruit,5
+almond,Nut,pear,Fruit,17
+almond,Nut,pecan,Nut,9
+almond,Nut,phyllo/puff pastry dough,Misc,5
+almond,Nut,pistachio,Nut,11
+almond,Nut,plum,Fruit,8
+almond,Nut,raisin,Fruit,13
+almond,Nut,raspberry,Fruit,18
+almond,Nut,rice,Grain,5
+almond,Nut,sour cream,Dairy,9
+almond,Nut,strawberry,Fruit,15
+almond,Nut,vanilla,Condiment,11
+almond,Nut,walnut,Nut,19
+amaretto,Alcohol,chocolate,Misc,9
+amaretto,Alcohol,egg,Poultry,9
+amaretto,Alcohol,milk/cream,Dairy,9
+anise,Spice,cinnamon,Spice,7
+anise,Spice,egg,Poultry,8
+anise,Spice,ginger,Vegetable,6
+anise,Spice,honey,Condiment,5
+anise,Spice,lemon,Fruit,7
+anise,Spice,milk/cream,Dairy,9
+anise,Spice,pineapple,Fruit,5
+anise,Spice,vanilla,Condiment,5
+apple,Fruit,apricot,Fruit,9
+apple,Fruit,berry,Fruit,6
+apple,Fruit,brandy,Alcohol,6
+apple,Fruit,butter,Dairy,5
+apple,Fruit,cheddar,Dairy,7
+apple,Fruit,cherry,Fruit,13
+apple,Fruit,cinnamon,Spice,30
+apple,Fruit,citrus,Fruit,8
+apple,Fruit,clove,Spice,6
+apple,Fruit,cranberry,Fruit,17
+apple,Fruit,cream cheese,Dairy,5
+apple,Fruit,currant,Fruit,7
+apple,Fruit,dried fruit,Fruit,8
+apple,Fruit,egg,Poultry,27
+apple,Fruit,fig,Fruit,6
+apple,Fruit,fruit juice,Fruit,9
+apple,Fruit,ginger,Vegetable,10
+apple,Fruit,hazelnut,Nut,5
+apple,Fruit,honey,Condiment,11
+apple,Fruit,lemon,Fruit,6
+apple,Fruit,milk/cream,Dairy,23
+apple,Fruit,nutmeg,Spice,6
+apple,Fruit,oat,Grain,14
+apple,Fruit,orange,Fruit,5
+apple,Fruit,pear,Fruit,8
+apple,Fruit,pecan,Nut,17
+apple,Fruit,phyllo/puff pastry dough,Misc,13
+apple,Fruit,prune,Fruit,11
+apple,Fruit,quince,Fruit,5
+apple,Fruit,raisin,Fruit,27
+apple,Fruit,rum,Alcohol,10
+apple,Fruit,sour cream,Dairy,8
+apple,Fruit,vanilla,Condiment,7
+apple,Fruit,walnut,Nut,19
+apricot,Fruit,berry,Fruit,8
+apricot,Fruit,brandy,Alcohol,6
+apricot,Fruit,cherry,Fruit,20
+apricot,Fruit,chocolate,Misc,13
+apricot,Fruit,cinnamon,Spice,5
+apricot,Fruit,cranberry,Fruit,11
+apricot,Fruit,cream cheese,Dairy,12
+apricot,Fruit,dried fruit,Fruit,11
+apricot,Fruit,egg,Poultry,15
+apricot,Fruit,fig,Fruit,5
+apricot,Fruit,jam or jelly,Condiment,8
+apricot,Fruit,milk/cream,Dairy,6
+apricot,Fruit,pear,Fruit,10
+apricot,Fruit,pecan,Nut,8
+apricot,Fruit,pineapple,Fruit,5
+apricot,Fruit,prune,Fruit,5
+apricot,Fruit,raisin,Fruit,7
+apricot,Fruit,raspberry,Fruit,6
+apricot,Fruit,walnut,Nut,6
+banana,Fruit,chocolate,Misc,25
+banana,Fruit,coconut,Fruit,7
+banana,Fruit,cream cheese,Dairy,8
+banana,Fruit,egg,Poultry,12
+banana,Fruit,mango,Fruit,5
+banana,Fruit,milk/cream,Dairy,25
+banana,Fruit,pecan,Nut,9
+banana,Fruit,pineapple,Fruit,9
+banana,Fruit,rum,Alcohol,21
+banana,Fruit,strawberry,Fruit,7
+banana,Fruit,walnut,Nut,8
+berry,Fruit,blackberry,Fruit,33
+berry,Fruit,blueberry,Fruit,40
+berry,Fruit,cheese,Dairy,8
+berry,Fruit,cherry,Fruit,11
+berry,Fruit,chocolate,Misc,30
+berry,Fruit,cinnamon,Spice,5
+berry,Fruit,citrus,Fruit,29
+berry,Fruit,cranberry,Fruit,16
+berry,Fruit,cream cheese,Dairy,15
+berry,Fruit,egg,Poultry,34
+berry,Fruit,ginger,Vegetable,9
+berry,Fruit,herb,Herb,5
+berry,Fruit,jam or jelly,Condiment,5
+berry,Fruit,lemon,Fruit,25
+berry,Fruit,lime,Fruit,7
+berry,Fruit,liqueur,Alcohol,5
+berry,Fruit,milk/cream,Dairy,44
+berry,Fruit,nectarine,Fruit,6
+berry,Fruit,peach,Fruit,17
+berry,Fruit,pear,Fruit,10
+berry,Fruit,phyllo/puff pastry dough,Misc,6
+berry,Fruit,pistachio,Nut,6
+berry,Fruit,raspberry,Fruit,62
+berry,Fruit,rhubarb,Fruit,7
+berry,Fruit,sour cream,Dairy,5
+berry,Fruit,strawberry,Fruit,54
+berry,Fruit,vanilla,Condiment,10
+berry,Fruit,vinegar,Condiment,7
+berry,Fruit,walnut,Nut,6
+berry,Fruit,white wine,Alcohol,5
+berry,Fruit,yogurt,Dairy,7
+blackberry,Fruit,blueberry,Fruit,18
+blackberry,Fruit,chocolate,Misc,5
+blackberry,Fruit,egg,Poultry,19
+blackberry,Fruit,lemon,Fruit,13
+blackberry,Fruit,liqueur,Alcohol,8
+blackberry,Fruit,mango,Fruit,6
+blackberry,Fruit,milk/cream,Dairy,24
+blackberry,Fruit,nectarine,Fruit,6
+blackberry,Fruit,oat,Grain,5
+blackberry,Fruit,peach,Fruit,5
+blackberry,Fruit,plum,Fruit,5
+blackberry,Fruit,raspberry,Fruit,29
+blackberry,Fruit,strawberry,Fruit,8
+blueberry,Fruit,chocolate,Misc,6
+blueberry,Fruit,citrus,Fruit,11
+blueberry,Fruit,cream cheese,Dairy,12
+blueberry,Fruit,egg,Poultry,12
+blueberry,Fruit,ginger,Vegetable,5
+blueberry,Fruit,lemon,Fruit,29
+blueberry,Fruit,milk/cream,Dairy,26
+blueberry,Fruit,mint,Herb,6
+blueberry,Fruit,nectarine,Fruit,7
+blueberry,Fruit,orange,Fruit,5
+blueberry,Fruit,raspberry,Fruit,28
+blueberry,Fruit,sour cream,Dairy,6
+blueberry,Fruit,strawberry,Fruit,15
+blueberry,Fruit,vanilla,Condiment,6
+bourbon,Alcohol,chocolate,Misc,9
+bourbon,Alcohol,egg,Poultry,9
+bourbon,Alcohol,milk/cream,Dairy,11
+bourbon,Alcohol,peach,Fruit,6
+bourbon,Alcohol,pecan,Nut,16
+brandy,Alcohol,cherry,Fruit,10
+brandy,Alcohol,chocolate,Misc,13
+brandy,Alcohol,dried fruit,Fruit,7
+brandy,Alcohol,egg,Poultry,8
+brandy,Alcohol,honey,Condiment,6
+brandy,Alcohol,jam or jelly,Condiment,5
+brandy,Alcohol,milk/cream,Dairy,11
+brandy,Alcohol,pear,Fruit,9
+brandy,Alcohol,prune,Fruit,10
+brandy,Alcohol,raisin,Fruit,6
+brandy,Alcohol,raspberry,Fruit,5
+bread,Grain,chocolate,Misc,6
+bread,Grain,cinnamon,Spice,6
+bread,Grain,egg,Poultry,10
+bread,Grain,ginger,Vegetable,5
+bread,Grain,milk/cream,Dairy,12
+bread,Grain,pecan,Nut,5
+butter,Dairy,chocolate,Misc,9
+butter,Dairy,cream cheese,Dairy,6
+butter,Dairy,egg,Poultry,15
+butter,Dairy,milk/cream,Dairy,7
+butter,Dairy,vanilla,Condiment,5
+buttermilk,Dairy,cream cheese,Dairy,5
+buttermilk,Dairy,raspberry,Fruit,5
+carrot,Vegetable,coconut,Fruit,6
+carrot,Vegetable,cream cheese,Dairy,15
+carrot,Vegetable,orange,Fruit,5
+carrot,Vegetable,raisin,Fruit,6
+carrot,Vegetable,walnut,Nut,7
+cashew,Nut,honey,Condiment,6
+cheese,Dairy,chocolate,Misc,9
+cheese,Dairy,citrus,Fruit,6
+cheese,Dairy,coconut,Fruit,5
+cheese,Dairy,coffee,Misc,5
+cheese,Dairy,cream cheese,Dairy,27
+cheese,Dairy,egg,Poultry,15
+cheese,Dairy,fig,Fruit,6
+cheese,Dairy,milk/cream,Dairy,7
+cheese,Dairy,ricotta,Dairy,6
+cheese,Dairy,sour cream,Dairy,5
+cheese,Dairy,walnut,Nut,6
+cherry,Fruit,chocolate,Misc,36
+cherry,Fruit,cranberry,Fruit,5
+cherry,Fruit,cream cheese,Dairy,6
+cherry,Fruit,dried fruit,Fruit,12
+cherry,Fruit,egg,Poultry,14
+cherry,Fruit,hazelnut,Nut,5
+cherry,Fruit,jam or jelly,Condiment,5
+cherry,Fruit,kirsch,Alcohol,7
+cherry,Fruit,milk/cream,Dairy,21
+cherry,Fruit,oat,Grain,5
+cherry,Fruit,orange,Fruit,5
+cherry,Fruit,pear,Fruit,11
+cherry,Fruit,pecan,Nut,5
+cherry,Fruit,vanilla,Condiment,8
+chestnut,Nut,milk/cream,Dairy,6
+chocolate,Misc,cinnamon,Spice,25
+chocolate,Misc,citrus,Fruit,19
+chocolate,Misc,coconut,Fruit,33
+chocolate,Misc,coffee,Misc,61
+chocolate,Misc,cognac/armagnac,Alcohol,10
+chocolate,Misc,cranberry,Fruit,15
+chocolate,Misc,cream cheese,Dairy,48
+chocolate,Misc,currant,Fruit,5
+chocolate,Misc,date,Fruit,9
+chocolate,Misc,dried fruit,Fruit,13
+chocolate,Misc,egg,Poultry,141
+chocolate,Misc,frangelico,Alcohol,9
+chocolate,Misc,fruit juice,Fruit,6
+chocolate,Misc,ginger,Vegetable,16
+chocolate,Misc,hazelnut,Nut,41
+chocolate,Misc,honey,Condiment,8
+chocolate,Misc,jam or jelly,Condiment,21
+chocolate,Misc,kahlua,Alcohol,9
+chocolate,Misc,lemon,Fruit,11
+chocolate,Misc,liqueur,Alcohol,30
+chocolate,Misc,macadamia nut,Nut,7
+chocolate,Misc,milk/cream,Dairy,185
+chocolate,Misc,mint,Herb,15
+chocolate,Misc,oat,Grain,9
+chocolate,Misc,orange,Fruit,43
+chocolate,Misc,peanut,Legume,20
+chocolate,Misc,peanut butter,Condiment,5
+chocolate,Misc,pear,Fruit,10
+chocolate,Misc,pecan,Nut,45
+chocolate,Misc,pistachio,Nut,20
+chocolate,Misc,raisin,Fruit,10
+chocolate,Misc,raspberry,Fruit,38
+chocolate,Misc,ricotta,Dairy,5
+chocolate,Misc,rum,Alcohol,17
+chocolate,Misc,sour cream,Dairy,26
+chocolate,Misc,strawberry,Fruit,21
+chocolate,Misc,triple sec,Alcohol,8
+chocolate,Misc,vanilla,Condiment,27
+chocolate,Misc,walnut,Nut,39
+chocolate,Misc,yogurt,Dairy,9
+cinnamon,Spice,citrus,Fruit,8
+cinnamon,Spice,clove,Spice,34
+cinnamon,Spice,coffee,Misc,5
+cinnamon,Spice,cranberry,Fruit,5
+cinnamon,Spice,cream cheese,Dairy,10
+cinnamon,Spice,date,Fruit,5
+cinnamon,Spice,dried fruit,Fruit,8
+cinnamon,Spice,egg,Poultry,38
+cinnamon,Spice,ginger,Vegetable,28
+cinnamon,Spice,hazelnut,Nut,6
+cinnamon,Spice,honey,Condiment,9
+cinnamon,Spice,lemon,Fruit,19
+cinnamon,Spice,milk/cream,Dairy,41
+cinnamon,Spice,molasses,Condiment,10
+cinnamon,Spice,nutmeg,Spice,14
+cinnamon,Spice,oat,Grain,8
+cinnamon,Spice,orange,Fruit,13
+cinnamon,Spice,pear,Fruit,13
+cinnamon,Spice,pecan,Nut,13
+cinnamon,Spice,phyllo/puff pastry dough,Misc,5
+cinnamon,Spice,pumpkin,Vegetable,11
+cinnamon,Spice,raisin,Fruit,9
+cinnamon,Spice,rum,Alcohol,7
+cinnamon,Spice,sour cream,Dairy,9
+cinnamon,Spice,vanilla,Condiment,13
+cinnamon,Spice,walnut,Nut,13
+citrus,Fruit,coconut,Fruit,6
+citrus,Fruit,cranberry,Fruit,6
+citrus,Fruit,cream cheese,Dairy,13
+citrus,Fruit,egg,Poultry,60
+citrus,Fruit,fruit juice,Fruit,7
+citrus,Fruit,ginger,Vegetable,9
+citrus,Fruit,grapefruit,Fruit,12
+citrus,Fruit,hazelnut,Nut,5
+citrus,Fruit,herb,Herb,6
+citrus,Fruit,honey,Condiment,5
+citrus,Fruit,lemon,Fruit,49
+citrus,Fruit,lime,Fruit,22
+citrus,Fruit,mango,Fruit,11
+citrus,Fruit,milk/cream,Dairy,25
+citrus,Fruit,orange,Fruit,44
+citrus,Fruit,pineapple,Fruit,8
+citrus,Fruit,pistachio,Nut,6
+citrus,Fruit,raspberry,Fruit,5
+citrus,Fruit,rum,Alcohol,11
+citrus,Fruit,strawberry,Fruit,8
+citrus,Fruit,vanilla,Condiment,10
+citrus,Fruit,yogurt,Dairy,6
+clove,Spice,dried fruit,Fruit,6
+clove,Spice,egg,Poultry,6
+clove,Spice,ginger,Vegetable,18
+clove,Spice,honey,Condiment,5
+clove,Spice,lemon,Fruit,6
+clove,Spice,milk/cream,Dairy,6
+clove,Spice,molasses,Condiment,7
+clove,Spice,nutmeg,Spice,8
+clove,Spice,orange,Fruit,5
+clove,Spice,pecan,Nut,5
+coconut,Fruit,cream cheese,Dairy,20
+coconut,Fruit,egg,Poultry,46
+coconut,Fruit,ginger,Vegetable,6
+coconut,Fruit,lemon,Fruit,8
+coconut,Fruit,lime,Fruit,13
+coconut,Fruit,macadamia nut,Nut,6
+coconut,Fruit,mango,Fruit,14
+coconut,Fruit,milk/cream,Dairy,31
+coconut,Fruit,oat,Grain,5
+coconut,Fruit,passion fruit,Vegetable,6
+coconut,Fruit,pecan,Nut,11
+coconut,Fruit,pineapple,Fruit,22
+coconut,Fruit,raisin,Fruit,6
+coconut,Fruit,rice,Grain,5
+coconut,Fruit,rum,Alcohol,16
+coconut,Fruit,vanilla,Condiment,5
+coffee,Misc,cognac/armagnac,Alcohol,5
+coffee,Misc,cream cheese,Dairy,10
+coffee,Misc,egg,Poultry,38
+coffee,Misc,hazelnut,Nut,7
+coffee,Misc,kahlua,Alcohol,9
+coffee,Misc,liqueur,Alcohol,10
+coffee,Misc,milk/cream,Dairy,43
+coffee,Misc,pecan,Nut,6
+coffee,Misc,raspberry,Fruit,7
+coffee,Misc,sour cream,Dairy,6
+coffee,Misc,vanilla,Condiment,5
+coffee,Misc,walnut,Nut,9
+cognac/armagnac,Alcohol,egg,Poultry,11
+cognac/armagnac,Alcohol,milk/cream,Dairy,12
+cognac/armagnac,Alcohol,prune,Fruit,6
+cottage cheese,Dairy,egg,Poultry,5
+cranberry,Fruit,cream cheese,Dairy,5
+cranberry,Fruit,dried fruit,Fruit,6
+cranberry,Fruit,egg,Poultry,10
+cranberry,Fruit,ginger,Vegetable,6
+cranberry,Fruit,milk/cream,Dairy,12
+cranberry,Fruit,oat,Grain,8
+cranberry,Fruit,orange,Fruit,15
+cranberry,Fruit,pear,Fruit,15
+cranberry,Fruit,pecan,Nut,10
+cranberry,Fruit,raisin,Fruit,6
+cranberry,Fruit,walnut,Nut,7
+cream cheese,Dairy,egg,Poultry,39
+cream cheese,Dairy,ginger,Vegetable,18
+cream cheese,Dairy,honey,Condiment,6
+cream cheese,Dairy,jam or jelly,Condiment,12
+cream cheese,Dairy,lemon,Fruit,19
+cream cheese,Dairy,lime,Fruit,9
+cream cheese,Dairy,liqueur,Alcohol,7
+cream cheese,Dairy,mango,Fruit,7
+cream cheese,Dairy,maple syrup,Condiment,5
+cream cheese,Dairy,milk/cream,Dairy,34
+cream cheese,Dairy,orange,Fruit,22
+cream cheese,Dairy,peanut,Legume,6
+cream cheese,Dairy,pecan,Nut,10
+cream cheese,Dairy,pineapple,Fruit,9
+cream cheese,Dairy,pumpkin,Vegetable,7
+cream cheese,Dairy,raisin,Fruit,9
+cream cheese,Dairy,raspberry,Fruit,14
+cream cheese,Dairy,rum,Alcohol,5
+cream cheese,Dairy,sour cream,Dairy,30
+cream cheese,Dairy,strawberry,Fruit,12
+cream cheese,Dairy,vanilla,Condiment,13
+cream cheese,Dairy,walnut,Nut,18
+currant,Fruit,egg,Poultry,7
+currant,Fruit,milk/cream,Dairy,6
+currant,Fruit,orange,Fruit,5
+date,Fruit,dried fruit,Fruit,5
+date,Fruit,fig,Fruit,7
+date,Fruit,honey,Condiment,5
+date,Fruit,milk/cream,Dairy,5
+date,Fruit,oat,Grain,7
+date,Fruit,orange,Fruit,5
+date,Fruit,pecan,Nut,11
+date,Fruit,vanilla,Condiment,5
+date,Fruit,walnut,Nut,14
+dried fruit,Fruit,egg,Poultry,5
+dried fruit,Fruit,fig,Fruit,8
+dried fruit,Fruit,ginger,Vegetable,6
+dried fruit,Fruit,milk/cream,Dairy,6
+dried fruit,Fruit,pear,Fruit,9
+dried fruit,Fruit,pecan,Nut,5
+dried fruit,Fruit,pistachio,Nut,7
+dried fruit,Fruit,prune,Fruit,5
+dried fruit,Fruit,raisin,Fruit,12
+dried fruit,Fruit,walnut,Nut,6
+egg,Poultry,frangelico,Alcohol,5
+egg,Poultry,fruit juice,Fruit,14
+egg,Poultry,ginger,Vegetable,39
+egg,Poultry,grapefruit,Fruit,6
+egg,Poultry,hazelnut,Nut,22
+egg,Poultry,herb,Herb,5
+egg,Poultry,honey,Condiment,12
+egg,Poultry,jam or jelly,Condiment,19
+egg,Poultry,kahlua,Alcohol,6
+egg,Poultry,kirsch,Alcohol,5
+egg,Poultry,lemon,Fruit,64
+egg,Poultry,lime,Fruit,32
+egg,Poultry,liqueur,Alcohol,21
+egg,Poultry,macadamia nut,Nut,9
+egg,Poultry,mango,Fruit,19
+egg,Poultry,maple syrup,Condiment,6
+egg,Poultry,milk/cream,Dairy,278
+egg,Poultry,molasses,Condiment,11
+egg,Poultry,nutmeg,Spice,7
+egg,Poultry,orange,Fruit,50
+egg,Poultry,passion fruit,Vegetable,6
+egg,Poultry,peach,Fruit,9
+egg,Poultry,pear,Fruit,17
+egg,Poultry,pecan,Nut,36
+egg,Poultry,phyllo/puff pastry dough,Misc,5
+egg,Poultry,pineapple,Fruit,13
+egg,Poultry,pistachio,Nut,24
+egg,Poultry,prune,Fruit,9
+egg,Poultry,pumpkin,Vegetable,19
+egg,Poultry,raisin,Fruit,26
+egg,Poultry,raspberry,Fruit,37
+egg,Poultry,rum,Alcohol,27
+egg,Poultry,sherry,Alcohol,5
+egg,Poultry,sour cream,Dairy,30
+egg,Poultry,strawberry,Fruit,32
+egg,Poultry,sweet potato/yam,Vegetable,5
+egg,Poultry,tequila,Alcohol,6
+egg,Poultry,triple sec,Alcohol,6
+egg,Poultry,vanilla,Condiment,72
+egg,Poultry,walnut,Nut,23
+egg,Poultry,yogurt,Dairy,9
+fig,Fruit,honey,Condiment,12
+fig,Fruit,milk/cream,Dairy,7
+fig,Fruit,orange,Fruit,5
+fig,Fruit,pear,Fruit,10
+fig,Fruit,pecan,Nut,9
+fig,Fruit,raisin,Fruit,6
+fig,Fruit,raspberry,Fruit,7
+fig,Fruit,walnut,Nut,7
+frangelico,Alcohol,hazelnut,Nut,12
+frangelico,Alcohol,milk/cream,Dairy,11
+fruit juice,Fruit,lemon,Fruit,5
+fruit juice,Fruit,milk/cream,Dairy,7
+fruit juice,Fruit,orange,Fruit,16
+fruit juice,Fruit,sour cream,Dairy,5
+ginger,Vegetable,honey,Condiment,7
+ginger,Vegetable,lemon,Fruit,11
+ginger,Vegetable,lime,Fruit,8
+ginger,Vegetable,mango,Fruit,10
+ginger,Vegetable,milk/cream,Dairy,41
+ginger,Vegetable,molasses,Condiment,30
+ginger,Vegetable,nectarine,Fruit,8
+ginger,Vegetable,nutmeg,Spice,7
+ginger,Vegetable,orange,Fruit,10
+ginger,Vegetable,pear,Fruit,16
+ginger,Vegetable,pecan,Nut,13
+ginger,Vegetable,pineapple,Fruit,6
+ginger,Vegetable,pistachio,Nut,8
+ginger,Vegetable,plum,Fruit,5
+ginger,Vegetable,pumpkin,Vegetable,11
+ginger,Vegetable,raisin,Fruit,9
+ginger,Vegetable,raspberry,Fruit,5
+ginger,Vegetable,rhubarb,Fruit,5
+ginger,Vegetable,sour cream,Dairy,5
+ginger,Vegetable,strawberry,Fruit,6
+ginger,Vegetable,yogurt,Dairy,6
+grapefruit,Fruit,milk/cream,Dairy,5
+grapefruit,Fruit,orange,Fruit,7
+hazelnut,Nut,honey,Condiment,7
+hazelnut,Nut,jam or jelly,Condiment,5
+hazelnut,Nut,lemon,Fruit,6
+hazelnut,Nut,milk/cream,Dairy,18
+hazelnut,Nut,orange,Fruit,8
+hazelnut,Nut,pear,Fruit,11
+hazelnut,Nut,raspberry,Fruit,8
+hazelnut,Nut,vanilla,Condiment,5
+hazelnut,Nut,walnut,Nut,5
+herb,Herb,mint,Herb,5
+honey,Condiment,lemon,Fruit,13
+honey,Condiment,milk/cream,Dairy,17
+honey,Condiment,orange,Fruit,21
+honey,Condiment,peach,Fruit,9
+honey,Condiment,pear,Fruit,5
+honey,Condiment,pecan,Nut,6
+honey,Condiment,phyllo/puff pastry dough,Misc,9
+honey,Condiment,pistachio,Nut,6
+honey,Condiment,raisin,Fruit,5
+honey,Condiment,strawberry,Fruit,6
+honey,Condiment,vanilla,Condiment,6
+honey,Condiment,walnut,Nut,26
+honey,Condiment,yogurt,Dairy,13
+honeydew,Fruit,lime,Fruit,6
+jam or jelly,Condiment,milk/cream,Dairy,18
+jam or jelly,Condiment,orange,Fruit,7
+jam or jelly,Condiment,peanut,Legume,5
+jam or jelly,Condiment,raspberry,Fruit,16
+jam or jelly,Condiment,sour cream,Dairy,5
+kahlua,Alcohol,milk/cream,Dairy,8
+kirsch,Alcohol,milk/cream,Dairy,7
+kiwi,Fruit,mango,Fruit,7
+kiwi,Fruit,orange,Fruit,6
+kiwi,Fruit,pineapple,Fruit,7
+kiwi,Fruit,strawberry,Fruit,8
+lemon,Fruit,lemon juice,Fruit,10
+lemon,Fruit,liqueur,Alcohol,5
+lemon,Fruit,milk/cream,Dairy,70
+lemon,Fruit,orange,Fruit,20
+lemon,Fruit,pear,Fruit,6
+lemon,Fruit,pistachio,Nut,9
+lemon,Fruit,raisin,Fruit,6
+lemon,Fruit,raspberry,Fruit,9
+lemon,Fruit,red wine,Alcohol,6
+lemon,Fruit,sour cream,Dairy,6
+lemon,Fruit,strawberry,Fruit,25
+lemon,Fruit,vanilla,Condiment,9
+lemon,Fruit,walnut,Nut,14
+lemon,Fruit,yogurt,Dairy,9
+lime,Fruit,mango,Fruit,18
+lime,Fruit,melon,Fruit,6
+lime,Fruit,milk/cream,Dairy,21
+lime,Fruit,mint,Herb,6
+lime,Fruit,pineapple,Fruit,7
+lime,Fruit,rum,Alcohol,10
+lime,Fruit,strawberry,Fruit,8
+lime,Fruit,tequila,Alcohol,6
+lime,Fruit,vanilla,Condiment,6
+lime,Fruit,yogurt,Dairy,5
+lime juice,Fruit,milk/cream,Dairy,5
+liqueur,Alcohol,milk/cream,Dairy,34
+liqueur,Alcohol,orange,Fruit,22
+liqueur,Alcohol,raspberry,Fruit,9
+liqueur,Alcohol,sour cream,Dairy,5
+liqueur,Alcohol,strawberry,Fruit,6
+liqueur,Alcohol,triple sec,Alcohol,7
+liqueur,Alcohol,vanilla,Condiment,5
+macadamia nut,Nut,milk/cream,Dairy,6
+macadamia nut,Nut,pineapple,Fruit,5
+mango,Fruit,milk/cream,Dairy,13
+mango,Fruit,papaya,Fruit,7
+mango,Fruit,pineapple,Fruit,18
+mango,Fruit,rum,Alcohol,9
+mango,Fruit,vanilla,Condiment,5
+maple syrup,Condiment,milk/cream,Dairy,10
+maple syrup,Condiment,pear,Fruit,8
+maple syrup,Condiment,walnut,Nut,5
+melon,Fruit,mint,Herb,6
+melon,Fruit,watermelon,Fruit,7
+milk/cream,Dairy,mint,Herb,16
+milk/cream,Dairy,molasses,Condiment,7
+milk/cream,Dairy,nutmeg,Spice,9
+milk/cream,Dairy,orange,Fruit,38
+milk/cream,Dairy,passion fruit,Vegetable,7
+milk/cream,Dairy,peach,Fruit,18
+milk/cream,Dairy,peanut,Legume,13
+milk/cream,Dairy,pear,Fruit,18
+milk/cream,Dairy,pecan,Nut,26
+milk/cream,Dairy,phyllo/puff pastry dough,Misc,12
+milk/cream,Dairy,pineapple,Fruit,13
+milk/cream,Dairy,pistachio,Nut,22
+milk/cream,Dairy,plum,Fruit,8
+milk/cream,Dairy,prune,Fruit,7
+milk/cream,Dairy,pumpkin,Vegetable,20
+milk/cream,Dairy,raisin,Fruit,17
+milk/cream,Dairy,raspberry,Fruit,53
+milk/cream,Dairy,rhubarb,Fruit,9
+milk/cream,Dairy,rice,Grain,16
+milk/cream,Dairy,ricotta,Dairy,8
+milk/cream,Dairy,rum,Alcohol,36
+milk/cream,Dairy,sherry,Alcohol,6
+milk/cream,Dairy,sour cream,Dairy,25
+milk/cream,Dairy,strawberry,Fruit,63
+milk/cream,Dairy,sweet potato/yam,Vegetable,6
+milk/cream,Dairy,vanilla,Condiment,80
+milk/cream,Dairy,walnut,Nut,26
+milk/cream,Dairy,white wine,Alcohol,7
+milk/cream,Dairy,yogurt,Dairy,12
+mint,Herb,strawberry,Fruit,10
+mint,Herb,watermelon,Fruit,5
+mint,Herb,yogurt,Dairy,5
+molasses,Condiment,pecan,Nut,6
+molasses,Condiment,raisin,Fruit,5
+nectarine,Fruit,plum,Fruit,5
+nectarine,Fruit,raspberry,Fruit,5
+oat,Grain,pecan,Nut,5
+oat,Grain,raisin,Fruit,5
+oat,Grain,raspberry,Fruit,5
+orange,Fruit,pecan,Nut,11
+orange,Fruit,pineapple,Fruit,10
+orange,Fruit,pistachio,Nut,9
+orange,Fruit,raisin,Fruit,9
+orange,Fruit,raspberry,Fruit,10
+orange,Fruit,red wine,Alcohol,7
+orange,Fruit,rhubarb,Fruit,5
+orange,Fruit,sour cream,Dairy,11
+orange,Fruit,strawberry,Fruit,11
+orange,Fruit,vanilla,Condiment,15
+orange,Fruit,walnut,Nut,12
+orange,Fruit,yogurt,Dairy,6
+papaya,Fruit,pineapple,Fruit,5
+peach,Fruit,raspberry,Fruit,19
+peach,Fruit,vanilla,Condiment,7
+pear,Fruit,phyllo/puff pastry dough,Misc,8
+pear,Fruit,raisin,Fruit,6
+pear,Fruit,raspberry,Fruit,7
+pear,Fruit,red wine,Alcohol,7
+pear,Fruit,walnut,Nut,7
+pear,Fruit,white wine,Alcohol,5
+pecan,Nut,pineapple,Fruit,5
+pecan,Nut,pumpkin,Vegetable,10
+pecan,Nut,raisin,Fruit,9
+pecan,Nut,rum,Alcohol,5
+pecan,Nut,sour cream,Dairy,7
+pecan,Nut,vanilla,Condiment,8
+pecan,Nut,walnut,Nut,12
+phyllo/puff pastry dough,Misc,raspberry,Fruit,5
+phyllo/puff pastry dough,Misc,walnut,Nut,6
+pineapple,Fruit,rum,Alcohol,10
+pineapple,Fruit,strawberry,Fruit,6
+pistachio,Nut,raisin,Fruit,8
+pistachio,Nut,strawberry,Fruit,8
+pistachio,Nut,walnut,Nut,5
+pistachio,Nut,yogurt,Dairy,5
+plum,Fruit,vanilla,Condiment,5
+pumpkin,Vegetable,sour cream,Dairy,6
+pumpkin,Vegetable,walnut,Nut,5
+raisin,Fruit,rice,Grain,7
+raisin,Fruit,rum,Alcohol,14
+raisin,Fruit,vanilla,Condiment,5
+raisin,Fruit,walnut,Nut,14
+raspberry,Fruit,rhubarb,Fruit,6
+raspberry,Fruit,sour cream,Dairy,8
+raspberry,Fruit,strawberry,Fruit,18
+raspberry,Fruit,vanilla,Condiment,6
+raspberry,Fruit,yogurt,Dairy,5
+rhubarb,Fruit,strawberry,Fruit,15
+sour cream,Dairy,vanilla,Condiment,13
+strawberry,Fruit,vanilla,Condiment,9
+strawberry,Fruit,vinegar,Condiment,6
+strawberry,Fruit,yogurt,Dairy,5
+walnut,Nut,yogurt,Dairy,8

@@ -1,0 +1,106 @@
+source,category,target,category,breakfast
+almond,Nut,bread,Grain,5
+almond,Nut,dried fruit,Fruit,5
+almond,Nut,honey,Condiment,5
+almond,Nut,oat,Grain,8
+apple,Fruit,cinnamon,Spice,8
+apple,Fruit,egg,Poultry,5
+apple,Fruit,fruit juice,Fruit,6
+apple,Fruit,milk/cream,Dairy,5
+arugula,Vegetable,egg,Poultry,5
+asparagus,Vegetable,egg,Poultry,5
+bacon,Meat,egg,Poultry,8
+bacon,Meat,pork,Meat,5
+banana,Fruit,bread,Grain,6
+banana,Fruit,orange,Fruit,7
+banana,Fruit,pecan,Nut,5
+banana,Fruit,yogurt,Dairy,8
+bell pepper,Vegetable,egg,Poultry,9
+bell pepper,Vegetable,onion,Vegetable,5
+bell pepper,Vegetable,pepper,Vegetable,6
+berry,Fruit,blueberry,Fruit,7
+berry,Fruit,strawberry,Fruit,5
+blackberry,Fruit,blueberry,Fruit,5
+blueberry,Fruit,milk/cream,Dairy,6
+bread,Grain,cheddar,Dairy,7
+bread,Grain,chive,Vegetable,6
+bread,Grain,cinnamon,Spice,6
+bread,Grain,citrus,Fruit,5
+bread,Grain,cornmeal,Grain,10
+bread,Grain,cranberry,Fruit,5
+bread,Grain,currant,Fruit,5
+bread,Grain,egg,Poultry,16
+bread,Grain,herb,Herb,5
+bread,Grain,milk/cream,Dairy,24
+bread,Grain,oat,Grain,6
+bread,Grain,orange,Fruit,6
+bread,Grain,pecan,Nut,9
+bread,Grain,raisin,Fruit,10
+bread,Grain,sour cream,Dairy,5
+bread,Grain,walnut,Nut,10
+bread,Grain,whole wheat,Grain,6
+chard,Vegetable,egg,Poultry,5
+cheddar,Dairy,cheese,Dairy,13
+cheddar,Dairy,egg,Poultry,18
+cheddar,Dairy,milk/cream,Dairy,8
+cheddar,Dairy,sausage,Meat,7
+cheese,Dairy,egg,Poultry,30
+cheese,Dairy,herb,Herb,8
+cheese,Dairy,milk/cream,Dairy,5
+cheese,Dairy,onion,Vegetable,7
+cheese,Dairy,pepper,Vegetable,6
+cheese,Dairy,pork,Meat,8
+cheese,Dairy,ricotta,Dairy,5
+cheese,Dairy,sausage,Meat,5
+chive,Vegetable,egg,Poultry,12
+chive,Vegetable,herb,Herb,7
+chive,Vegetable,milk/cream,Dairy,5
+cinnamon,Spice,egg,Poultry,8
+cinnamon,Spice,lemon,Fruit,5
+cinnamon,Spice,oat,Grain,5
+citrus,Fruit,egg,Poultry,5
+citrus,Fruit,lemon,Fruit,6
+citrus,Fruit,orange,Fruit,6
+coconut,Fruit,pecan,Nut,5
+cornmeal,Grain,egg,Poultry,11
+cornmeal,Grain,milk/cream,Dairy,12
+cream cheese,Dairy,egg,Poultry,13
+cream cheese,Dairy,salmon,Seafood,7
+dill,Vegetable,salmon,Seafood,5
+dried fruit,Fruit,honey,Condiment,6
+dried fruit,Fruit,oat,Grain,9
+egg,Poultry,fish,Seafood,6
+egg,Poultry,garlic,Herb,5
+egg,Poultry,ham,Meat,19
+egg,Poultry,herb,Herb,13
+egg,Poultry,honey,Condiment,5
+egg,Poultry,leafy green,Vegetable,6
+egg,Poultry,leek,Vegetable,5
+egg,Poultry,maple syrup,Condiment,5
+egg,Poultry,milk/cream,Dairy,44
+egg,Poultry,mushroom,Vegetable,9
+egg,Poultry,onion,Vegetable,17
+egg,Poultry,parmesan,Dairy,8
+egg,Poultry,pepper,Vegetable,16
+egg,Poultry,pork,Meat,14
+egg,Poultry,potato,Vegetable,12
+egg,Poultry,prosciutto,Meat,10
+egg,Poultry,raisin,Fruit,6
+egg,Poultry,salmon,Seafood,9
+egg,Poultry,sausage,Meat,16
+egg,Poultry,sour cream,Dairy,7
+egg,Poultry,spinach,Vegetable,10
+egg,Poultry,tomato,Vegetable,20
+fish,Seafood,salmon,Seafood,9
+ham,Meat,pork,Meat,5
+honey,Condiment,oat,Grain,12
+maple syrup,Condiment,milk/cream,Dairy,6
+milk/cream,Dairy,sausage,Meat,6
+milk/cream,Dairy,vanilla,Condiment,7
+mushroom,Vegetable,onion,Vegetable,5
+oat,Grain,pecan,Nut,7
+oat,Grain,walnut,Nut,6
+oat,Grain,yogurt,Dairy,5
+onion,Vegetable,pepper,Vegetable,7
+onion,Vegetable,potato,Vegetable,8
+pork,Meat,sausage,Meat,8

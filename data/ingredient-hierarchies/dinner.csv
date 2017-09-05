@@ -1,0 +1,634 @@
+source,source.category,target,target.category,dinner
+almond,Nut,chicken,Meat,5
+almond,Nut,pasta,Grain,5
+apple,Fruit,bacon,Meat,9
+apple,Fruit,mustard,Condiment,8
+apple,Fruit,onion,Vegetable,5
+apple,Fruit,pork,Meat,13
+apricot,Fruit,ginger,Vegetable,5
+arugula,Vegetable,chicken,Meat,6
+arugula,Vegetable,leafy green,Vegetable,6
+arugula,Vegetable,poultry,Meat,5
+asparagus,Vegetable,chicken,Meat,6
+asparagus,Vegetable,pasta,Grain,8
+bacon,Meat,bean,Vegetable,7
+bacon,Meat,beef,Meat,10
+bacon,Meat,chicken,Meat,9
+bacon,Meat,fennel,Vegetable,5
+bacon,Meat,garlic,Herb,8
+bacon,Meat,ground beef,Meat,8
+bacon,Meat,onion,Vegetable,12
+bacon,Meat,parmesan,Dairy,5
+bacon,Meat,pasta,Grain,10
+bacon,Meat,pork,Meat,16
+bacon,Meat,potato,Vegetable,7
+bacon,Meat,poultry,Meat,6
+bacon,Meat,tomato,Vegetable,11
+basil,Herb,chicken,Meat,8
+basil,Herb,garlic,Herb,9
+basil,Herb,herb,Herb,17
+basil,Herb,olive,Vegetable,5
+basil,Herb,parmesan,Dairy,6
+basil,Herb,parsley,Herb,6
+basil,Herb,pasta,Grain,14
+basil,Herb,tomato,Vegetable,17
+bass,Seafood,fish,Seafood,7
+bean,Vegetable,cheese,Dairy,8
+bean,Vegetable,chicken,Meat,6
+bean,Vegetable,chickpea,Vegetable,6
+bean,Vegetable,garlic,Herb,13
+bean,Vegetable,herb,Herb,5
+bean,Vegetable,kale,Vegetable,8
+bean,Vegetable,leafy green,Vegetable,7
+bean,Vegetable,legume,Legume,6
+bean,Vegetable,onion,Vegetable,5
+bean,Vegetable,pasta,Grain,10
+bean,Vegetable,pork,Meat,7
+bean,Vegetable,sausage,Meat,10
+bean,Vegetable,tomato,Vegetable,14
+beef,Meat,beef rib,Meat,10
+beef,Meat,beef tenderloin,Meat,14
+beef,Meat,bell pepper,Vegetable,8
+beef,Meat,blue cheese,Dairy,5
+beef,Meat,brisket,Meat,5
+beef,Meat,carrot,Vegetable,18
+beef,Meat,cheese,Dairy,9
+beef,Meat,cilantro,Herb,5
+beef,Meat,garlic,Herb,17
+beef,Meat,ginger,Vegetable,11
+beef,Meat,ground beef,Meat,18
+beef,Meat,herb,Herb,20
+beef,Meat,hot pepper,Vegetable,7
+beef,Meat,milk/cream,Dairy,5
+beef,Meat,mushroom,Vegetable,17
+beef,Meat,mustard,Condiment,10
+beef,Meat,noodle,Grain,12
+beef,Meat,onion,Vegetable,32
+beef,Meat,pasta,Grain,8
+beef,Meat,pepper,Vegetable,11
+beef,Meat,pork,Meat,16
+beef,Meat,potato,Vegetable,10
+beef,Meat,red wine,Alcohol,20
+beef,Meat,rosemary,Herb,7
+beef,Meat,soy sauce,Condiment,12
+beef,Meat,thyme,Herb,6
+beef,Meat,tomato,Vegetable,18
+beef,Meat,veal,Meat,7
+beef,Meat,wine,Alcohol,13
+beef rib,Meat,carrot,Vegetable,7
+beef rib,Meat,mushroom,Vegetable,5
+beef rib,Meat,potato,Vegetable,5
+beet,Vegetable,goat cheese,Dairy,6
+beet,Vegetable,walnut,Nut,5
+bell pepper,Vegetable,cheese,Dairy,5
+bell pepper,Vegetable,chicken,Meat,11
+bell pepper,Vegetable,eggplant,Vegetable,5
+bell pepper,Vegetable,fish,Seafood,5
+bell pepper,Vegetable,garlic,Herb,9
+bell pepper,Vegetable,onion,Vegetable,16
+bell pepper,Vegetable,pepper,Vegetable,22
+bell pepper,Vegetable,pork,Meat,7
+bell pepper,Vegetable,potato,Vegetable,10
+bell pepper,Vegetable,poultry,Meat,6
+bell pepper,Vegetable,sausage,Meat,6
+bell pepper,Vegetable,tomato,Vegetable,19
+bell pepper,Vegetable,white wine,Alcohol,5
+blue cheese,Dairy,cheese,Dairy,7
+bok choy,Vegetable,leafy green,Vegetable,5
+bok choy,Vegetable,mushroom,Vegetable,5
+breadcrumbs,Grain,pork,Meat,5
+brisket,Meat,carrot,Vegetable,5
+broccoli rabe,Vegetable,pasta,Grain,5
+butter,Dairy,chicken,Meat,8
+butter,Dairy,onion,Vegetable,5
+butternut squash,Vegetable,pasta,Grain,6
+butternut squash,Vegetable,squash,Vegetable,10
+cabbage,Vegetable,carrot,Vegetable,5
+cabbage,Vegetable,noodle,Grain,5
+cabbage,Vegetable,onion,Vegetable,6
+cabbage,Vegetable,pork,Meat,7
+capers,Vegetable,chicken,Meat,6
+capers,Vegetable,olive,Vegetable,6
+capers,Vegetable,tomato,Vegetable,8
+carrot,Vegetable,celery,Vegetable,5
+carrot,Vegetable,chicken,Meat,8
+carrot,Vegetable,fennel,Vegetable,7
+carrot,Vegetable,garlic,Herb,10
+carrot,Vegetable,ginger,Vegetable,7
+carrot,Vegetable,herb,Herb,9
+carrot,Vegetable,lamb,Meat,9
+carrot,Vegetable,milk/cream,Dairy,5
+carrot,Vegetable,mushroom,Vegetable,5
+carrot,Vegetable,onion,Vegetable,21
+carrot,Vegetable,parsley,Herb,5
+carrot,Vegetable,potato,Vegetable,15
+carrot,Vegetable,poultry,Meat,6
+carrot,Vegetable,radish,Vegetable,5
+carrot,Vegetable,red wine,Alcohol,7
+carrot,Vegetable,tomato,Vegetable,9
+carrot,Vegetable,turnip,Vegetable,6
+carrot,Vegetable,vinegar,Condiment,6
+carrot,Vegetable,white wine,Alcohol,5
+carrot,Vegetable,wine,Alcohol,9
+cauliflower,Vegetable,garlic,Herb,5
+celery,Vegetable,onion,Vegetable,9
+cheddar,Dairy,cheese,Dairy,16
+cheese,Dairy,chicken,Meat,11
+cheese,Dairy,chile pepper,Vegetable,7
+cheese,Dairy,cornmeal,Grain,5
+cheese,Dairy,egg,Poultry,9
+cheese,Dairy,eggplant,Vegetable,8
+cheese,Dairy,feta,Dairy,6
+cheese,Dairy,fish,Seafood,5
+cheese,Dairy,garlic,Herb,15
+cheese,Dairy,goat cheese,Dairy,9
+cheese,Dairy,ham,Meat,6
+cheese,Dairy,herb,Herb,23
+cheese,Dairy,hominy/cornmeal/masa,Grain,5
+cheese,Dairy,leafy green,Vegetable,13
+cheese,Dairy,leek,Vegetable,5
+cheese,Dairy,milk/cream,Dairy,6
+cheese,Dairy,mozzarella,Dairy,9
+cheese,Dairy,mushroom,Vegetable,13
+cheese,Dairy,noodle,Grain,10
+cheese,Dairy,olive,Vegetable,5
+cheese,Dairy,onion,Vegetable,17
+cheese,Dairy,parmesan,Dairy,21
+cheese,Dairy,parsley,Herb,7
+cheese,Dairy,pasta,Grain,37
+cheese,Dairy,pea,Vegetable,5
+cheese,Dairy,pine nut,Nut,5
+cheese,Dairy,pork,Meat,8
+cheese,Dairy,potato,Vegetable,5
+cheese,Dairy,poultry,Meat,10
+cheese,Dairy,ricotta,Dairy,9
+cheese,Dairy,sausage,Meat,8
+cheese,Dairy,spinach,Vegetable,10
+cheese,Dairy,tomato,Vegetable,30
+cheese,Dairy,tortillas,Misc,7
+cheese,Dairy,walnut,Nut,7
+cheese,Dairy,zucchini,Vegetable,6
+chicken,Meat,chile pepper,Vegetable,13
+chicken,Meat,cilantro,Herb,11
+chicken,Meat,cinnamon,Spice,6
+chicken,Meat,citrus,Fruit,10
+chicken,Meat,corn,Vegetable,8
+chicken,Meat,couscous,Grain,5
+chicken,Meat,curry,Spice,5
+chicken,Meat,garlic,Herb,35
+chicken,Meat,ginger,Vegetable,21
+chicken,Meat,green onion/scallion,Vegetable,5
+chicken,Meat,ham,Meat,7
+chicken,Meat,herb,Herb,32
+chicken,Meat,hot pepper,Vegetable,8
+chicken,Meat,jalapeno,Vegetable,6
+chicken,Meat,leafy green,Vegetable,16
+chicken,Meat,lemon,Fruit,16
+chicken,Meat,lemongrass,Herb,7
+chicken,Meat,lime,Fruit,5
+chicken,Meat,milk/cream,Dairy,11
+chicken,Meat,mint,Herb,5
+chicken,Meat,mushroom,Vegetable,20
+chicken,Meat,mustard,Condiment,14
+chicken,Meat,noodle,Grain,11
+chicken,Meat,olive,Vegetable,13
+chicken,Meat,onion,Vegetable,40
+chicken,Meat,orange,Fruit,10
+chicken,Meat,parmesan,Dairy,8
+chicken,Meat,parsley,Herb,8
+chicken,Meat,parsnip,Vegetable,5
+chicken,Meat,pasta,Grain,10
+chicken,Meat,pepper,Vegetable,7
+chicken,Meat,pork,Meat,8
+chicken,Meat,potato,Vegetable,15
+chicken,Meat,poultry,Meat,87
+chicken,Meat,rice,Grain,5
+chicken,Meat,sausage,Meat,5
+chicken,Meat,soy sauce,Condiment,13
+chicken,Meat,spinach,Vegetable,6
+chicken,Meat,tarragon,Herb,11
+chicken,Meat,thyme,Herb,8
+chicken,Meat,tomato,Vegetable,37
+chicken,Meat,vinegar,Condiment,10
+chicken,Meat,white wine,Alcohol,8
+chicken,Meat,wine,Alcohol,6
+chicken,Meat,yogurt,Dairy,8
+chickpea,Vegetable,pasta,Grain,5
+chickpea,Vegetable,tomato,Vegetable,6
+chile pepper,Vegetable,cilantro,Herb,5
+chile pepper,Vegetable,garlic,Herb,9
+chile pepper,Vegetable,hot pepper,Vegetable,8
+chile pepper,Vegetable,onion,Vegetable,6
+chile pepper,Vegetable,pork,Meat,6
+chile pepper,Vegetable,tomato,Vegetable,7
+chive,Vegetable,herb,Herb,5
+cilantro,Herb,fish,Seafood,6
+cilantro,Herb,garlic,Herb,14
+cilantro,Herb,ginger,Vegetable,12
+cilantro,Herb,herb,Herb,8
+cilantro,Herb,hot pepper,Vegetable,8
+cilantro,Herb,jalapeno,Vegetable,7
+cilantro,Herb,lime,Fruit,7
+cilantro,Herb,mint,Herb,6
+cilantro,Herb,onion,Vegetable,13
+cilantro,Herb,parsley,Herb,8
+cilantro,Herb,shrimp,Seafood,7
+cilantro,Herb,sour cream,Dairy,5
+cilantro,Herb,tomato,Vegetable,10
+cinnamon,Spice,tomato,Vegetable,5
+citrus,Fruit,fish,Seafood,15
+citrus,Fruit,garlic,Herb,8
+citrus,Fruit,herb,Herb,17
+citrus,Fruit,lemon,Fruit,16
+citrus,Fruit,lime,Fruit,6
+citrus,Fruit,onion,Vegetable,7
+citrus,Fruit,orange,Fruit,11
+citrus,Fruit,pasta,Grain,6
+citrus,Fruit,poultry,Meat,6
+citrus,Fruit,salmon,Seafood,5
+citrus,Fruit,tomato,Vegetable,7
+citrus,Fruit,yogurt,Dairy,5
+clam,Seafood,fish,Seafood,5
+clam,Seafood,mussel,Seafood,6
+clam,Seafood,pork,Meat,5
+clam,Seafood,potato,Vegetable,7
+clam,Seafood,sausage,Meat,5
+clam,Seafood,shrimp,Seafood,10
+clam,Seafood,tomato,Vegetable,8
+clove,Spice,ginger,Vegetable,6
+coconut,Fruit,curry,Spice,7
+coconut,Fruit,ginger,Vegetable,6
+cod,Seafood,fish,Seafood,10
+cod,Seafood,potato,Vegetable,7
+coriander,Herb,cumin,Spice,6
+coriander,Herb,garlic,Herb,6
+coriander,Herb,ginger,Vegetable,5
+coriander,Herb,onion,Vegetable,5
+corn,Vegetable,garlic,Herb,5
+corn,Vegetable,green bean,Vegetable,5
+corn,Vegetable,milk/cream,Dairy,5
+corn,Vegetable,potato,Vegetable,8
+corn,Vegetable,tomato,Vegetable,7
+cucumber,Vegetable,fish,Seafood,6
+cucumber,Vegetable,radish,Vegetable,6
+cucumber,Vegetable,tomato,Vegetable,5
+cumin,Spice,lamb,Meat,5
+curry,Spice,ginger,Vegetable,9
+curry,Spice,potato,Vegetable,5
+curry,Spice,tomato,Vegetable,5
+dill,Vegetable,fish,Seafood,6
+dill,Vegetable,herb,Herb,6
+dill,Vegetable,salmon,Seafood,6
+dried fruit,Fruit,prune,Fruit,6
+duck,Meat,poultry,Meat,13
+duck,Meat,white wine,Alcohol,5
+egg,Poultry,herb,Herb,6
+egg,Poultry,milk/cream,Dairy,5
+egg,Poultry,mushroom,Vegetable,6
+egg,Poultry,onion,Vegetable,5
+egg,Poultry,parmesan,Dairy,9
+egg,Poultry,pasta,Grain,6
+egg,Poultry,potato,Vegetable,8
+egg,Poultry,shrimp,Seafood,5
+egg,Poultry,soy sauce,Condiment,5
+eggplant,Vegetable,pasta,Grain,6
+eggplant,Vegetable,tomato,Vegetable,14
+fennel,Vegetable,fish,Seafood,7
+fennel,Vegetable,garlic,Herb,7
+fennel,Vegetable,milk/cream,Dairy,6
+fennel,Vegetable,mussel,Seafood,6
+fennel,Vegetable,onion,Vegetable,5
+fennel,Vegetable,sausage,Meat,8
+fennel,Vegetable,shrimp,Seafood,5
+fennel,Vegetable,tomato,Vegetable,9
+feta,Dairy,tomato,Vegetable,6
+fish,Seafood,garlic,Herb,13
+fish,Seafood,ginger,Vegetable,17
+fish,Seafood,halibut,Seafood,15
+fish,Seafood,herb,Herb,25
+fish,Seafood,jalapeno,Vegetable,5
+fish,Seafood,leafy green,Vegetable,12
+fish,Seafood,leek,Vegetable,5
+fish,Seafood,lemon,Fruit,12
+fish,Seafood,lime,Fruit,5
+fish,Seafood,milk/cream,Dairy,7
+fish,Seafood,mushroom,Vegetable,10
+fish,Seafood,mussel,Seafood,6
+fish,Seafood,noodle,Grain,6
+fish,Seafood,olive,Vegetable,10
+fish,Seafood,onion,Vegetable,13
+fish,Seafood,pasta,Grain,11
+fish,Seafood,pepper,Vegetable,8
+fish,Seafood,potato,Vegetable,14
+fish,Seafood,salmon,Seafood,32
+fish,Seafood,shrimp,Seafood,7
+fish,Seafood,snapper,Seafood,10
+fish,Seafood,soy sauce,Condiment,7
+fish,Seafood,tomato,Vegetable,25
+fish,Seafood,trout,Seafood,7
+fish,Seafood,tuna,Seafood,5
+fish,Seafood,white wine,Alcohol,6
+fish,Seafood,wine,Alcohol,5
+fish,Seafood,yogurt,Dairy,7
+garlic,Herb,ginger,Vegetable,19
+garlic,Herb,herb,Herb,43
+garlic,Herb,hot pepper,Vegetable,7
+garlic,Herb,jalapeno,Vegetable,5
+garlic,Herb,lamb,Meat,20
+garlic,Herb,leafy green,Vegetable,11
+garlic,Herb,lemon,Fruit,13
+garlic,Herb,milk/cream,Dairy,8
+garlic,Herb,mint,Herb,7
+garlic,Herb,mushroom,Vegetable,11
+garlic,Herb,mussel,Seafood,6
+garlic,Herb,mustard,Condiment,5
+garlic,Herb,noodle,Grain,5
+garlic,Herb,olive,Vegetable,7
+garlic,Herb,onion,Vegetable,41
+garlic,Herb,parmesan,Dairy,8
+garlic,Herb,parsley,Herb,10
+garlic,Herb,pasta,Grain,23
+garlic,Herb,pepper,Vegetable,8
+garlic,Herb,pork,Meat,19
+garlic,Herb,potato,Vegetable,9
+garlic,Herb,poultry,Meat,15
+garlic,Herb,red wine,Alcohol,11
+garlic,Herb,rosemary,Herb,19
+garlic,Herb,sage,Herb,5
+garlic,Herb,shrimp,Seafood,5
+garlic,Herb,thyme,Herb,10
+garlic,Herb,tomato,Vegetable,35
+garlic,Herb,white wine,Alcohol,15
+garlic,Herb,yogurt,Dairy,5
+garlic,Herb,zucchini,Vegetable,5
+ginger,Vegetable,green onion/scallion,Vegetable,7
+ginger,Vegetable,herb,Herb,7
+ginger,Vegetable,honey,Condiment,5
+ginger,Vegetable,lamb,Meat,6
+ginger,Vegetable,lime,Fruit,7
+ginger,Vegetable,mushroom,Vegetable,9
+ginger,Vegetable,noodle,Grain,13
+ginger,Vegetable,onion,Vegetable,14
+ginger,Vegetable,pepper,Vegetable,5
+ginger,Vegetable,pork,Meat,10
+ginger,Vegetable,poultry,Meat,12
+ginger,Vegetable,rice,Grain,5
+ginger,Vegetable,salmon,Seafood,5
+ginger,Vegetable,sherry,Alcohol,6
+ginger,Vegetable,soy,Vegetable,5
+ginger,Vegetable,soy sauce,Condiment,19
+ginger,Vegetable,tomato,Vegetable,10
+goat cheese,Dairy,herb,Herb,5
+goat cheese,Dairy,pasta,Grain,7
+goat cheese,Dairy,tomato,Vegetable,7
+green bean,Vegetable,onion,Vegetable,5
+green bean,Vegetable,pasta,Grain,8
+green bean,Vegetable,potato,Vegetable,6
+green bean,Vegetable,tomato,Vegetable,6
+green onion/scallion,Vegetable,noodle,Grain,6
+green onion/scallion,Vegetable,sausage,Meat,5
+green onion/scallion,Vegetable,shrimp,Seafood,5
+green onion/scallion,Vegetable,soy sauce,Condiment,6
+ground beef,Meat,onion,Vegetable,5
+ground beef,Meat,pasta,Grain,5
+ground beef,Meat,pork,Meat,7
+ground beef,Meat,tomato,Vegetable,6
+ham,Meat,pork,Meat,7
+herb,Herb,lamb,Meat,13
+herb,Herb,leafy green,Vegetable,11
+herb,Herb,lemon,Fruit,14
+herb,Herb,milk/cream,Dairy,10
+herb,Herb,mint,Herb,7
+herb,Herb,mushroom,Vegetable,7
+herb,Herb,mustard,Condiment,7
+herb,Herb,noodle,Grain,12
+herb,Herb,olive,Vegetable,7
+herb,Herb,onion,Vegetable,26
+herb,Herb,parsley,Herb,16
+herb,Herb,pasta,Grain,24
+herb,Herb,pea,Vegetable,6
+herb,Herb,pepper,Vegetable,10
+herb,Herb,pork,Meat,15
+herb,Herb,potato,Vegetable,14
+herb,Herb,poultry,Meat,22
+herb,Herb,red wine,Alcohol,7
+herb,Herb,rice,Grain,6
+herb,Herb,ricotta,Dairy,5
+herb,Herb,rosemary,Herb,14
+herb,Herb,salmon,Seafood,8
+herb,Herb,shrimp,Seafood,5
+herb,Herb,tarragon,Herb,12
+herb,Herb,thyme,Herb,14
+herb,Herb,tomato,Vegetable,32
+herb,Herb,white wine,Alcohol,8
+herb,Herb,wine,Alcohol,7
+hominy/cornmeal/masa,Grain,parmesan,Dairy,5
+honey,Condiment,poultry,Meat,6
+hot pepper,Vegetable,onion,Vegetable,11
+hot pepper,Vegetable,pepper,Vegetable,6
+hot pepper,Vegetable,tomato,Vegetable,6
+jalapeno,Vegetable,onion,Vegetable,5
+jalapeno,Vegetable,tomato,Vegetable,8
+kale,Vegetable,leafy green,Vegetable,8
+kale,Vegetable,mushroom,Vegetable,5
+kale,Vegetable,parmesan,Dairy,8
+kale,Vegetable,pasta,Grain,7
+kale,Vegetable,sausage,Meat,5
+lamb,Meat,lamb chop,Meat,8
+lamb,Meat,lamb shank,Meat,5
+lamb,Meat,mint,Herb,7
+lamb,Meat,onion,Vegetable,10
+lamb,Meat,potato,Vegetable,5
+lamb,Meat,rack of lamb,Meat,9
+lamb,Meat,tomato,Vegetable,7
+lamb,Meat,yogurt,Dairy,7
+leafy green,Vegetable,lettuce,Vegetable,9
+leafy green,Vegetable,mayonnaise,Condiment,5
+leafy green,Vegetable,mushroom,Vegetable,8
+leafy green,Vegetable,noodle,Grain,7
+leafy green,Vegetable,onion,Vegetable,10
+leafy green,Vegetable,pasta,Grain,11
+leafy green,Vegetable,pork,Meat,7
+leafy green,Vegetable,poultry,Meat,12
+leafy green,Vegetable,salad dressing,Misc,6
+leafy green,Vegetable,spinach,Vegetable,9
+leafy green,Vegetable,tomato,Vegetable,5
+leafy green,Vegetable,vinegar,Condiment,5
+leek,Vegetable,milk/cream,Dairy,8
+leek,Vegetable,mushroom,Vegetable,5
+leek,Vegetable,potato,Vegetable,7
+leek,Vegetable,white wine,Alcohol,8
+lemon,Fruit,onion,Vegetable,6
+lemon,Fruit,parsley,Herb,9
+lemon,Fruit,pasta,Grain,14
+lemon,Fruit,poultry,Meat,6
+lemon,Fruit,salmon,Seafood,5
+lemon,Fruit,tomato,Vegetable,7
+lettuce,Vegetable,tomato,Vegetable,5
+milk/cream,Dairy,mushroom,Vegetable,15
+milk/cream,Dairy,mussel,Seafood,5
+milk/cream,Dairy,parmesan,Dairy,7
+milk/cream,Dairy,pasta,Grain,16
+milk/cream,Dairy,pork,Meat,13
+milk/cream,Dairy,potato,Vegetable,12
+milk/cream,Dairy,poultry,Meat,5
+milk/cream,Dairy,sausage,Meat,5
+milk/cream,Dairy,scallop,Seafood,5
+milk/cream,Dairy,spinach,Vegetable,5
+milk/cream,Dairy,tomato,Vegetable,9
+milk/cream,Dairy,white wine,Alcohol,10
+mint,Herb,parsley,Herb,10
+mint,Herb,pasta,Grain,5
+mint,Herb,pea,Vegetable,5
+mint,Herb,pork,Meat,5
+mozzarella,Dairy,parmesan,Dairy,7
+mozzarella,Dairy,pasta,Grain,13
+mozzarella,Dairy,ricotta,Dairy,6
+mozzarella,Dairy,tomato,Vegetable,12
+mushroom,Vegetable,noodle,Grain,12
+mushroom,Vegetable,onion,Vegetable,19
+mushroom,Vegetable,parmesan,Dairy,9
+mushroom,Vegetable,pasta,Grain,27
+mushroom,Vegetable,pepper,Vegetable,7
+mushroom,Vegetable,pork,Meat,9
+mushroom,Vegetable,potato,Vegetable,10
+mushroom,Vegetable,poultry,Meat,12
+mushroom,Vegetable,red wine,Alcohol,7
+mushroom,Vegetable,rice,Grain,11
+mushroom,Vegetable,ricotta,Dairy,5
+mushroom,Vegetable,soy sauce,Condiment,8
+mushroom,Vegetable,spinach,Vegetable,9
+mushroom,Vegetable,thyme,Herb,5
+mushroom,Vegetable,tomato,Vegetable,16
+mushroom,Vegetable,veal,Meat,5
+mushroom,Vegetable,white wine,Alcohol,6
+mussel,Seafood,scallop,Seafood,5
+mussel,Seafood,shrimp,Seafood,10
+mussel,Seafood,tomato,Vegetable,10
+mussel,Seafood,white wine,Alcohol,8
+mustard,Condiment,onion,Vegetable,10
+mustard,Condiment,pork,Meat,17
+mustard,Condiment,pork chop,Meat,5
+mustard,Condiment,pork tenderloin,Meat,5
+mustard,Condiment,poultry,Meat,9
+mustard,Condiment,white wine,Alcohol,6
+noodle,Grain,parmesan,Dairy,5
+noodle,Grain,pasta,Grain,35
+noodle,Grain,pea,Vegetable,6
+noodle,Grain,pork,Meat,5
+noodle,Grain,poultry,Meat,7
+noodle,Grain,shrimp,Seafood,7
+noodle,Grain,soy sauce,Condiment,8
+noodle,Grain,tomato,Vegetable,13
+noodle,Grain,zucchini,Vegetable,6
+olive,Vegetable,onion,Vegetable,16
+olive,Vegetable,pasta,Grain,12
+olive,Vegetable,poultry,Meat,7
+olive,Vegetable,tomato,Vegetable,23
+olive,Vegetable,white wine,Alcohol,8
+onion,Vegetable,orange,Fruit,7
+onion,Vegetable,pasta,Grain,10
+onion,Vegetable,pepper,Vegetable,10
+onion,Vegetable,pork,Meat,20
+onion,Vegetable,pork chop,Meat,6
+onion,Vegetable,potato,Vegetable,18
+onion,Vegetable,poultry,Meat,21
+onion,Vegetable,red wine,Alcohol,7
+onion,Vegetable,rice,Grain,7
+onion,Vegetable,sage,Herb,5
+onion,Vegetable,sausage,Meat,7
+onion,Vegetable,shrimp,Seafood,6
+onion,Vegetable,thyme,Herb,7
+onion,Vegetable,tomato,Vegetable,41
+onion,Vegetable,tortillas,Misc,5
+onion,Vegetable,veal,Meat,6
+onion,Vegetable,vinegar,Condiment,13
+onion,Vegetable,white wine,Alcohol,9
+parmesan,Dairy,pasta,Grain,29
+parmesan,Dairy,pine nut,Nut,5
+parmesan,Dairy,potato,Vegetable,5
+parmesan,Dairy,ricotta,Dairy,9
+parmesan,Dairy,sausage,Meat,6
+parmesan,Dairy,spinach,Vegetable,6
+parmesan,Dairy,tomato,Vegetable,15
+parmesan,Dairy,zucchini,Vegetable,5
+parsley,Herb,pasta,Grain,8
+parsley,Herb,potato,Vegetable,5
+parsley,Herb,sage,Herb,5
+parsley,Herb,thyme,Herb,6
+parsley,Herb,tomato,Vegetable,9
+pasta,Grain,pea,Vegetable,9
+pasta,Grain,pine nut,Nut,10
+pasta,Grain,pork,Meat,15
+pasta,Grain,poultry,Meat,6
+pasta,Grain,prosciutto,Meat,5
+pasta,Grain,red wine,Alcohol,7
+pasta,Grain,ricotta,Dairy,12
+pasta,Grain,sausage,Meat,16
+pasta,Grain,spinach,Vegetable,10
+pasta,Grain,squash,Vegetable,8
+pasta,Grain,tarragon,Herb,6
+pasta,Grain,tomato,Vegetable,50
+pasta,Grain,walnut,Nut,5
+pasta,Grain,wine,Alcohol,6
+pasta,Grain,zucchini,Vegetable,12
+pepper,Vegetable,pork,Meat,8
+pepper,Vegetable,potato,Vegetable,5
+pepper,Vegetable,poultry,Meat,5
+pepper,Vegetable,sausage,Meat,6
+pepper,Vegetable,tomato,Vegetable,8
+pineapple,Fruit,pork,Meat,5
+pork,Meat,pork chop,Meat,22
+pork,Meat,pork rib,Meat,8
+pork,Meat,pork tenderloin,Meat,13
+pork,Meat,potato,Vegetable,8
+pork,Meat,poultry,Meat,5
+pork,Meat,rosemary,Herb,12
+pork,Meat,sausage,Meat,21
+pork,Meat,soy sauce,Condiment,10
+pork,Meat,tomato,Vegetable,16
+pork,Meat,veal,Meat,6
+pork,Meat,white wine,Alcohol,7
+potato,Vegetable,poultry,Meat,5
+potato,Vegetable,rosemary,Herb,8
+potato,Vegetable,salmon,Seafood,5
+potato,Vegetable,shrimp,Seafood,5
+potato,Vegetable,sweet potato/yam,Vegetable,5
+potato,Vegetable,tomato,Vegetable,12
+potato,Vegetable,wine,Alcohol,5
+poultry,Meat,tarragon,Herb,6
+poultry,Meat,thyme,Herb,6
+poultry,Meat,tomato,Vegetable,18
+poultry,Meat,wine,Alcohol,6
+red wine,Alcohol,tomato,Vegetable,8
+red wine,Alcohol,wine,Alcohol,11
+rice,Grain,shrimp,Seafood,5
+rice,Grain,tomato,Vegetable,5
+ricotta,Dairy,tomato,Vegetable,7
+rosemary,Herb,sage,Herb,8
+rosemary,Herb,thyme,Herb,9
+rosemary,Herb,tomato,Vegetable,9
+sage,Herb,thyme,Herb,7
+sausage,Meat,shrimp,Seafood,6
+sausage,Meat,tomato,Vegetable,16
+sausage,Meat,white wine,Alcohol,5
+scallop,Seafood,shrimp,Seafood,7
+sherry,Alcohol,soy sauce,Condiment,6
+shrimp,Seafood,squid,Seafood,5
+shrimp,Seafood,tomato,Vegetable,10
+snapper,Seafood,tomato,Vegetable,5
+soy,Vegetable,soy sauce,Condiment,9
+soy,Vegetable,tofu,Misc,6
+soy sauce,Condiment,tofu,Misc,5
+soy sauce,Condiment,wine,Alcohol,6
+spinach,Vegetable,tomato,Vegetable,5
+squash,Vegetable,tomato,Vegetable,5
+squash,Vegetable,zucchini,Vegetable,5
+squid,Seafood,tomato,Vegetable,5
+thyme,Herb,tomato,Vegetable,7
+tomato,Vegetable,tortillas,Misc,7
+tomato,Vegetable,veal,Meat,12
+tomato,Vegetable,white wine,Alcohol,15
+tomato,Vegetable,zucchini,Vegetable,9
+veal,Meat,white wine,Alcohol,5
+white wine,Alcohol,wine,Alcohol,6
